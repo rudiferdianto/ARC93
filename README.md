@@ -1,1 +1,8 @@
-# ARC93
+<?php
+# config by : ARC93
+
+$user_id = "5f9f667429035d1c0d7ee510";
+$access_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZGZhIjoiYzMxZWNkY2MtNzJjNi00OGJmLTgzNjMtYzMwNjBjNTliNGNkIiwicmFuZG9tU2VlZCI6MC4wMTYxNTMzNzQ2NzE5ODUzLCJpYXQiOjE2MDQ1MjcwNjQsImV4cCI6MTYwNzExOTA2NH0.08ukR-_a7HCYZNlc4YxMUhZd9JzDQ7VOSLhvr7hVK2g";
+
+
+?>
